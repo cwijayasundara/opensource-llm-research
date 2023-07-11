@@ -1,0 +1,7 @@
+torch
+langchain
+torchdata
+transformers
+datasets
+huggingface_hub > /dev/null
+
